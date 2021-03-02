@@ -1,2 +1,3 @@
-# TicTock
-watch in the hall
+# INDIAN-CLOCK
+ THIS IS THE INDIAN STANDERD TIME(IST). THE LINK TO SEE IS GIVEN BELOW =>
+ https://pranay1234567890.github.io/INDIAN-CLOCK/
